@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        Artscape
+tagline:      Support local artists. Enjoy Beatiful 4K images. No Licesnsing Hassles
+baseurl:      "/Artscape"
+locale:       "en"
+
+# About/contact
+author:
+  name: ZGuy
+  url: http://www.zguy.com
