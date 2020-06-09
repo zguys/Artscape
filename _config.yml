@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 
 # Setup
 title:        Artscape
-description:      Support local artists. Enjoy Beatiful 4K images. No Licensing Hassles
+tagline:      Support local artists. Enjoy beatiful 4K images. No licensing hassles.
 baseurl:      "/Artscape"
 locale:       "en"
 
