@@ -10,6 +10,6 @@ layout: default
 </div>
 
 ## Features
-* Support local artists
 * Beautiful 4K Images
 * No licensing hassles
+* Support local artists
