@@ -1,3 +1,6 @@
+@media screen and (min-width: 64em) { .artscape-logo { width: 25rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .artscape-logo { width: 15rem; } }
+@media screen and (max-width: 42em) { .artscape-logo { width: 10rem; } }
 .tv {
     background: white url("https://images.unsplash.com/photo-1524293581917-878a6d017c71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80") no-repeat top;
     background-size:  contain;
