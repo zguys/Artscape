@@ -9,7 +9,13 @@ layout: default
     <img src="./TV with transparent screen.png" class="tv" alt="test">
 </div>
 
-## Features
+## For Digital Art Buyers
 * Beautiful 4K Images
 * No licensing hassles
-* Support local artists
+* Directly support artists
+
+## For Artists
+* Easily offer your images for licensed display
+* Retain control of your art - set the price and licensing period
+* Images are stored and displayed securely
+* No unauthorized printing
