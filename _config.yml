@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 # Setup
 title:        Artscape
 tagline:      Enjoy beautiful 4K images. No licensing hassles. Support local artists.
-baseurl:      "/Artscape"
+baseurl:      ""
 locale:       "en"
 
 # About/contact
