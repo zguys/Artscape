@@ -9,4 +9,5 @@ locale:       "en"
 # About/contact
 author:
   name: ZGuy
-  url: http://www.zguy.com
+  url: https://www.zguy.com
+  email: info@zguy.com
